@@ -1,0 +1,7 @@
+numpy
+opencv-python
+mtcnn
+scikit-learn
+playsound==1.2.2
+Pillow
+tensorflow-gpu

@@ -1,0 +1,4 @@
+data_image/**
+data_staff/image_attendance/**
+face_svc_ikh_toni_facemesh.pkl
+image_test/
